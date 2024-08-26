@@ -1,0 +1,4 @@
+Insertion: Adding a new node to the list.
+Deletion: Removing a node from the list.
+Traversal: Accessing each node in the list sequentially.
+Search: Finding a node with a specific value.
