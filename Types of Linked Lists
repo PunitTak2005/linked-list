@@ -1,0 +1,4 @@
+Singly Linked List: Each node points to the next node. The last node points to NULL.
+Doubly Linked List: Each node points to both the next and the previous node, allowing traversal in both directions.
+Circular Linked List: The last node points back to the first node, forming a circular structure.
+Circular Doubly Linked List: A combination of doubly linked and circular linked lists, where nodes are linked in both directions and the last node points to the first node.
